@@ -1,0 +1,50 @@
+body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: crimson;
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 300px;
+}
+
+
+
+.favButton {
+	height: 50px;
+	margin: 0px 5px;
+	font-size: medium;
+	font-family: 'Trebuchet MS';
+	background-color: yellow;
+	border-radius: 10px;
+	box-shadow: 3px 3px 5px 1px rgba(0,0,0,.8);
+}
